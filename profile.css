@@ -1,0 +1,115 @@
+
+
+.profile-image{
+  width: 150px;          /* change size as needed */
+  height: 150px;
+  border-radius: 50%;    /* makes it circular */
+  object-fit: cover;     /* ensures the image fills the circle nicely */
+  border: 3px solid #333; /* optional border */
+  align-items: center; 
+  justify-content: center; 
+  align-items: center; 
+  margin-top: 1000;
+}
+#loca{
+  font-family: 'Arial', sans-serif;
+  color: #555;
+  margin-top: 5px;
+}
+#hello{
+  font-family: 'Arial', sans-serif;
+  color: #333;
+}
+#robo{
+  font-family: 'Arial', sans-serif;
+  color: #666;
+}
+button{
+  background-color: #f0f0f0;
+  font-size: 16px;
+  border-radius:100px ;
+  cursor: pointer;
+}
+.aboutme{
+  font-family: 'Arial', sans-serif;
+  color: #444;
+  max-width: 600px;
+  margin: 20px auto;
+  line-height: 1.6;
+}
+.box {
+      margin-left: 2%;
+      width: 50%;
+      height: 600px;
+      background-color: white;
+      border: 2px solid rgb(245, 241, 241);
+      border: #f0f0f0;
+}
+.a1, .a2, .a3, .a4 {
+      margin-left: 2%;
+      font-family: 'Arial', sans-serif;
+      color: #444;
+}
+
+.b1 {
+      margin-left: 2%;
+      width: 50%;
+      height: 600px;
+      background-color: white ;
+      border: 2px solid rgb(250, 242, 242);
+      border: #f0f0f0;
+}
+.mbox {
+      display: flex;              /* Puts boxes side by side */
+      justify-content: center;    /* Centers them horizontally */
+      gap: 10px;                  /* Space between boxes */
+      margin-top: 50px;
+    }
+.skill {
+      
+      height: 250px;
+      background-color: white ;
+      border: 2px solid rgb(250, 242, 242);
+      border: #f0f0f0;
+      display: flex;              /* Puts boxes side by side */
+      justify-content: center;    /* Centers them horizontally */
+      gap: 20px;                  /* Space between boxes */
+      margin-top: 50px;
+    }
+.b7 ,.b2 {
+      margin-left: 0%;
+      width: 10%;
+      height: 200px;
+      background-color: white ;
+      border: 2px solid rgb(250, 242, 242);
+      border: #f0f0f0;
+}
+.b3 ,.b4 {
+      margin-left: 2%;
+      width: 10%;
+      height: 200px;
+      background-color: white ;
+      border: 2px solid rgb(250, 242, 242);
+      border: #f0f0f0;
+}
+.b5 ,.b6 {
+      margin-left: 2%;
+      width: 10%;
+      height: 200px;
+      background-color: white ;
+      border: 2px solid rgb(250, 242, 242);
+      border: #f0f0f0;
+}
+.summa{
+  align-items: center;
+  vertical-align: 50%;
+}
+body{
+  background-color: rgb(226, 228, 233);
+}
+
+.c1, .c2, .c3, .c4 {
+      margin-left: 2%;
+      font-family: 'Arial', sans-serif;
+      
+}   
